@@ -23,7 +23,9 @@ End of Training (95000 iterations approx)
 ![prog_095000](https://user-images.githubusercontent.com/85514219/223475475-ac22e403-9fd3-4362-b281-6bb4db7dee52.jpg)
 
 ### Rendered output
-
+     python run.py \
+        --type movement \
+        --cfg configs/human_nerf/zju_mocap/387/adventure.yaml 
 https://user-images.githubusercontent.com/85514219/223476707-476458d2-0ee2-46a3-b0fd-a6581505bc10.mp4
 
 ## THANK YOU
