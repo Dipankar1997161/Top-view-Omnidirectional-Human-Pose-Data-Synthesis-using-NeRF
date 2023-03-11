@@ -9,7 +9,7 @@ Kindly check that as this repo is just an experiment conducted.
     conda activate mononerf
 ### Model Train
 
-I trained the model on subject number 377 and 387 using the following command. Changing the activation function between Relu, Leaky relu and Elu to find the sufficient results. Also changing the model pipeline to achieve the 3D reconstructed results.
+I trained the model on subject number 377 and 387 using the following command. Changing the activation function between Relu, Leaky relu and Elu to find the sufficient results. Also changing the model pipeline to achieve the 3D reconstructed results. Further training and updates will be given soon.
     
     python train.py --cfg configs/human_nerf/zju_mocap/377/adventure.yaml
     
