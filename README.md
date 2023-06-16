@@ -1,7 +1,6 @@
 # Top-view Omnidirectional Human Pose Data Synthesis using NeRF
 
 MASTER THESIS - Updating soon
-Kindly check that as this repo is just an experiment conducted. 
 
 ### Environment_setup
     conda create -n mononerf python=3.8
