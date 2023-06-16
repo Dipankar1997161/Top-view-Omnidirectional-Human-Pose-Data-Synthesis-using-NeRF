@@ -1,7 +1,6 @@
-# Monocular-View-Synthesis-using-HumanNerf
+# Top-view Omnidirectional Human Pose Data Synthesis using NeRF
 
-The original code will be found in this repo: https://github.com/chungyiweng/humannerf.git
-
+MASTER THESIS - Updating soon
 Kindly check that as this repo is just an experiment conducted. 
 
 ### Environment_setup
